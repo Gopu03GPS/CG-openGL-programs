@@ -1,0 +1,1 @@
+/usr/bin/c++   -lGL -lGLU -lglut -g   CMakeFiles/CLion_OpenGL_Template.dir/main.cpp.o  -o CLion_OpenGL_Template  /usr/lib/x86_64-linux-gnu/libOpenGL.so /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libGLU.so /usr/lib/x86_64-linux-gnu/libglut.so 
